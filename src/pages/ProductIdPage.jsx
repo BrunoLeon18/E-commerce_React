@@ -3,7 +3,7 @@ import useFetch from "../hooks/useFetch";
 import { useEffect } from "react";
 import ProductInfo from "../components/ProductIdPage/ProductInfo";
 import SimilarProducts from "../components/ProductIdPage/SimilarProducts";
-import SliderImgs from "../components/ProductIdPage/sliderImgs";
+import SliderImgs from "../components/ProductIdPage/SliderImgs";
 import "./style/ProductIdPage.css";
 
 const ProductIdPage = () => {
